@@ -9,3 +9,6 @@ $ g++ -g -Wno-write-strings \`pkg-config --cflags opencv\` -o suspicious_loiter.
 
 Execute:
 `$ ./suspicious_loiter.o <video_file>`
+
+
+[![Contact me on Codementor](https://www.codementor.io/m-badges/sandesh87/im-a-cm-b.svg)](https://www.codementor.io/@sandesh87?refer=badge)
